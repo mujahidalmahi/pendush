@@ -121,7 +121,7 @@ Pendush is built with strict multi-layer safeguards to prevent accidental data l
 
 - **Product**: Pendush
 - **Version**: 1.0.1
-- **Developer**: Mujahid Al Mahi
+- **Developer**: [Mujahid Al Mahi](https://github.com/mujahidalmahi)
 - **Brand**: PinkDotHash
 - **Parent Company**: Akruno
 - **License**: [Apache License 2.0](LICENSE)
