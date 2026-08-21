@@ -5,13 +5,13 @@
 # Pendush — USB Utility
 **A simple, fast, and rock-solid native Windows USB utility.**
 
-[![Latest Release](https://img.shields.io/github/v/release/mujahidalmahi/pendush?style=for-the-badge&color=007ACC&label=Latest%20Release)](https://github.com/mujahidalmahi/pendush/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows)](https://github.com/mujahidalmahi/pendush)
-[![License](https://img.shields.io/badge/License-Apache%202.0-272624?style=for-the-badge)](LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/mujahidalmahi/pendush?style=for-the-badge&color=D94B73&label=Latest%20Release)](https://github.com/mujahidalmahi/pendush/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-D94B73?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mujahidalmahi/pendush)
+[![License](https://img.shields.io/badge/License-Apache%202.0-D94B73?style=for-the-badge)](LICENSE)
 
 *Developed by **PinkDotHash**, a software tools brand by **Akruno**.*
 
-[📥 **Download Latest Installer (v1.0.1)**](https://github.com/mujahidalmahi/pendush/releases/latest) • [🛡️ **Safety Specs**](DOCS_SAFETY.md) • [🔒 **Privacy Policy**](PRIVACY.md) • [💬 **Issues**](https://github.com/mujahidalmahi/pendush-code/issues)
+[📥 **Download Latest Installer (v1.0.1)**](https://github.com/mujahidalmahi/pendush/releases/latest) • [🛡️ **Safety Specs**](DOCS_SAFETY.md) • [🔒 **Privacy Policy**](PRIVACY.md) • [💬 **Report an Issue**](https://github.com/mujahidalmahi/pendush/issues)
 
 ---
 
@@ -124,5 +124,4 @@ Pendush is built with strict multi-layer safeguards to prevent accidental data l
 - **Brand**: PinkDotHash
 - **Parent Company**: Akruno
 - **License**: [Apache License 2.0](LICENSE)
-- **Releases Repository**: [https://github.com/mujahidalmahi/pendush](https://github.com/mujahidalmahi/pendush)
-- **Source Code Repository**: [https://github.com/mujahidalmahi/pendush-code](https://github.com/mujahidalmahi/pendush-code)
+- **Official Repository**: [https://github.com/mujahidalmahi/pendush](https://github.com/mujahidalmahi/pendush)
