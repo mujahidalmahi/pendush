@@ -7,12 +7,11 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/mujahidalmahi/pendush?style=for-the-badge&color=007ACC&label=Latest%20Release)](https://github.com/mujahidalmahi/pendush/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(x64)-0078D6?style=for-the-badge&logo=windows)](https://github.com/mujahidalmahi/pendush)
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub%20Repo-24292e?style=for-the-badge&logo=github)](https://github.com/mujahidalmahi/pendush-code)
 [![License](https://img.shields.io/badge/License-Apache%202.0-272624?style=for-the-badge)](LICENSE)
 
 *Developed by **PinkDotHash**, a software tools brand by **Akruno**.*
 
-[📥 **Download Latest Installer (v1.0.1)**](https://github.com/mujahidalmahi/pendush/releases/latest) • [💻 **Source Code**](https://github.com/mujahidalmahi/pendush-code) • [🛡️ **Safety Specs**](DOCS_SAFETY.md) • [🔒 **Privacy Policy**](PRIVACY.md) • [💬 **Issues**](https://github.com/mujahidalmahi/pendush-code/issues)
+[📥 **Download Latest Installer (v1.0.1)**](https://github.com/mujahidalmahi/pendush/releases/latest) • [🛡️ **Safety Specs**](DOCS_SAFETY.md) • [🔒 **Privacy Policy**](PRIVACY.md) • [💬 **Issues**](https://github.com/mujahidalmahi/pendush-code/issues)
 
 ---
 
