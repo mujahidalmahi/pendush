@@ -1,0 +1,22 @@
+# ====================================================================
+# Pendush Releases Repository Git Ignore
+# ====================================================================
+
+# OS metadata & thumbs
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Binary files & installer packages
+# (Upload compiled .exe files to GitHub Releases tab instead of committing into git history)
+*.exe
+*.msi
+*.iso
+*.vhd
+*.vhdx
