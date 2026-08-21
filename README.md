@@ -12,7 +12,7 @@
 
 *Developed by **PinkDotHash**, a software tools brand by **Akruno**.*
 
-[📥 **Download Latest Installer (v1.0.1)**](https://github.com/mujahidalmahi/pendush/releases/latest) • [💻 **Source Code**](https://github.com/mujahidalmahi/pendush-code) • [🛡️ **Safety Specs**](DOCS_SAFETY.md) • [🔒 **Privacy Policy**](PRIVACY.md) • [📜 **Changelog**](CHANGELOG.md) • [💬 **Issues**](https://github.com/mujahidalmahi/pendush-code/issues)
+[📥 **Download Latest Installer (v1.0.1)**](https://github.com/mujahidalmahi/pendush/releases/latest) • [💻 **Source Code**](https://github.com/mujahidalmahi/pendush-code) • [🛡️ **Safety Specs**](DOCS_SAFETY.md) • [🔒 **Privacy Policy**](PRIVACY.md) • [💬 **Issues**](https://github.com/mujahidalmahi/pendush-code/issues)
 
 ---
 
