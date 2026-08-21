@@ -93,7 +93,7 @@ If Windows says your drive is "Write Protected", "RAW", or refuses to format:
 1. Go to the **Tools & Repair** tab $\to$ **Security & Protection**.
 2. Click **Scan USB Drive** to detect hidden shortcut worms (`.lnk`), double-extension executables (e.g. `document.pdf.exe`), or malicious `autorun.inf` files.
 3. Click **Apply USB Vaccine**:
-   - Creates an un-deletable, read-only directory lock on your USB drive (`\autorun.inf\lpt1.pendush_lock`), preventing malware from creating autorun scripts when plugged into public or shared computers.
+   - Creates an undeletable, read-only directory lock on your USB drive (`\autorun.inf\lpt1.pendush_lock`), preventing malware from creating autorun scripts when plugged into public or shared computers.
 
 ---
 
@@ -121,7 +121,7 @@ Pendush is built with strict multi-layer safeguards to prevent accidental data l
 ## 📄 License & Credits
 
 - **Product**: Pendush
-- **Version**: 1.0.1 (Production Hardened)
+- **Version**: 1.0.1
 - **Brand**: PinkDotHash
 - **Parent Company**: Akruno
 - **License**: [Apache License 2.0](LICENSE)
