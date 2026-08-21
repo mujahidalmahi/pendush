@@ -35,7 +35,7 @@ Pendush is engineered in pure C++20 and Win32 for maximum reliability, speed, an
 | 🛠️ **Storage Repair & Formatting** | Quick fixes for RAW drives, missing drive letters, software write-protection attributes, and low-level FAT32, NTFS, and exFAT formatting. |
 | 🧪 **Speed Benchmark & NAND Probe** | Deterministic pseudo-random vector benchmark with unbuffered direct I/O + multi-strided memory wrap-around fake capacity detection to expose fraudulent flash drives. |
 | 🧼 **USB Security & Vaccine** | Heuristic scanner for disguised `.exe` malware and shortcut worms, plus built-in write-locked autorun immunization (`\autorun.inf\lpt1.pendush_lock`). |
-| 🎨 **Modern Dark UI** | Clean, distraction-free native aesthetic with pixel-perfect High-DPI scaling on Windows 10 and 11. |
+| 🎨 **Warm Paper Design System** | Clean, distraction-free warm light aesthetic (`#F4F1EA`) with pixel-perfect High-DPI scaling on Windows 10 and 11. |
 | 🔄 **1-Click Auto-Updates** | Built-in lightweight WinHTTP update checker that alerts you when a new release is published on GitHub. |
 
 ---
